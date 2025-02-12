@@ -1,4 +1,4 @@
-FROM golang:1.15
+FROM golang:1.24
 
 # Configure environment and rebuild stdlib
 ENV CGO_ENABLED=1 WEBDIR=/web GODIR=moul.io/radioman
