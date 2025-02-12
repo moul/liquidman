@@ -1,11 +1,15 @@
 github.com/Sirupsen/logrus v0.8.7-0.20150827021434-84b968cb9f82 h1:Y8lEiaBpbhkEIXlVU3I9wOlx73c6y2TtF+8gaHlzLyM=
 github.com/Sirupsen/logrus v0.8.7-0.20150827021434-84b968cb9f82/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/Sirupsen/logrus v0.11.5 h1:aIMrrsnipdTlAieMe7FC/iiuJ0+ELiXCT4YiVQiK9j8=
+github.com/Sirupsen/logrus v0.11.5/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gin-gonic/gin v0.0.0-20150925101445-52fcc5dbf6e9 h1:v1jGowR+pK6/awfRQQZw4FKyqeJGFvZpWR70LRFUzGk=
 github.com/gin-gonic/gin v0.0.0-20150925101445-52fcc5dbf6e9/go.mod h1:7cKuhb5qV2ggCFctp2fJQ+ErvciLZrIeoOSOm6mUr7Y=
 github.com/kr/fs v0.0.0-20131111012553-2788f0dbd169 h1:YUrU1/jxRqnt0PSrKj1Uj/wEjk/fjnE80QFfi2Zlj7Q=
 github.com/kr/fs v0.0.0-20131111012553-2788f0dbd169/go.mod h1:glhvuHOU9Hy7/8PwwdtnarXqLagOX0b/TbZx2zLMqEg=
+github.com/kr/fs v0.1.0 h1:Jskdu9ieNAYnjxsi0LbQp1ulIKZV1LAFgK1tWhpZgl8=
+github.com/kr/fs v0.1.0/go.mod h1:FFnZGqtBN9Gxj7eW1uZ42v5BccTP0vu6NEaFoC2HwRg=
 github.com/manucorporat/sse v0.0.0-20150715184805-fe6ea2c8e398 h1:dpbqQadB3NxFdAIk2VxZKXGDDGzle12DjOL3arqwhTM=
 github.com/manucorporat/sse v0.0.0-20150715184805-fe6ea2c8e398/go.mod h1:zUx1mhth20V3VKgL5jbd1BSQcW4Fy6Qs4PZvQwRFwzM=
 github.com/mattn/go-colorable v0.0.0-20150625154642-40e4aedc8fab h1:3lgod/2wdM8WaJNBe16LkFmrz2XkXbH2YhbRWh38W9U=
@@ -19,6 +23,8 @@ github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/wtolson/go-taglib v0.0.0-20151114194754-6e68349ff94e h1:PDhOkd4Rc11RgFOaaJjSbWfm0oQygvq7vMDGwhgXHl8=
 github.com/wtolson/go-taglib v0.0.0-20151114194754-6e68349ff94e/go.mod h1:p+WHGfN/a+Ol37Pm7EIOO/6Cylieb2qn1jmKfxtSsUg=
+github.com/wtolson/go-taglib v0.0.0-20210406152913-79209c280058 h1:/kj9W8wSHTlwt/i4n6902i/YOPYNIXiDR/PAmgbrDyc=
+github.com/wtolson/go-taglib v0.0.0-20210406152913-79209c280058/go.mod h1:p+WHGfN/a+Ol37Pm7EIOO/6Cylieb2qn1jmKfxtSsUg=
 golang.org/x/net v0.0.0-20150824032521-7654728e3819 h1:XRcggqNsIsAofmvtiWccKgOnhFIngL8GNb1U5hzV0sw=
 golang.org/x/net v0.0.0-20150824032521-7654728e3819/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sys v0.0.0-20200116001909-b77594299b42 h1:vEOn+mP2zCOVzKckCZy6YsCtDblrpj/w7B9nxGNELpg=
